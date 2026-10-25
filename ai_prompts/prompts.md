@@ -1,6 +1,7 @@
 # AI Prompt Log
 
-**Student:** DISHA ([NNM24IS073])
+**Student:** DISHA 
+**USN:** NNM24IS073
 **AI tool used:** Claude (Anthropic), through the chat interface on claude.ai
 **Assignment:** Operating Systems - AI-Assisted Synchronization and Visualization
 
